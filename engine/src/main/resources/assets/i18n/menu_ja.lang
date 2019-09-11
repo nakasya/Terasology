@@ -196,7 +196,7 @@
     "game-world-generators": "ワールド生成",
     "gameplay": "ゲームプレイ・テンプレート",
     "gameplay-info": "’モジュール’をクリックするとさらにカスタマイズできる",
-    "host-multiplayer-game": "ゲームをホスト",
+    "host-multiplayer-game": "ゲームのホスト",
     "identity-export": "マルチプレイIDをエクスポート",
     "identity-export-fail": "IDのエクスポートに失敗しました",
     "identity-export-ok": "%d IDを%sにエクスポートに成功しました",
