@@ -1,5 +1,5 @@
 info face="Noto Sans" size=20 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,1 outline=0
-common lineHeight=20 base=16 scaleW=512 scaleH=512 pages=4 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+common lineHeight=20 base=16 scaleW=512 scaleH=512 pages=3 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
 page id=0 file="NotoSans-Regular_0.png"
 page id=1 file="NotoSansSymbols-Regular_0.png"
 page id=2 file="noto_sans_jp_hira_kana_kanji_used_0.png"
